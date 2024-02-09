@@ -1,0 +1,54 @@
+C:\Users\dev\Source\Repos\PV212-API\NewsApi.Infrastructure\bin\Debug\net8.0\NewsApi.Infrastructure.deps.json
+C:\Users\dev\Source\Repos\PV212-API\NewsApi.Infrastructure\bin\Debug\net8.0\NewsApi.Infrastructure.runtimeconfig.json
+C:\Users\dev\Source\Repos\PV212-API\NewsApi.Infrastructure\bin\Debug\net8.0\NewsApi.Infrastructure.dll
+C:\Users\dev\Source\Repos\PV212-API\NewsApi.Infrastructure\bin\Debug\net8.0\NewsApi.Infrastructure.pdb
+C:\Users\dev\Source\Repos\PV212-API\NewsApi.Infrastructure\bin\Debug\net8.0\NewsApi.Core.dll
+C:\Users\dev\Source\Repos\PV212-API\NewsApi.Infrastructure\bin\Debug\net8.0\NewsApi.Core.pdb
+C:\Users\dev\Source\Repos\PV212-API\NewsApi.Infrastructure\obj\Debug\net8.0\NewsApi.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\dev\Source\Repos\PV212-API\NewsApi.Infrastructure\obj\Debug\net8.0\NewsApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Source\Repos\PV212-API\NewsApi.Infrastructure\obj\Debug\net8.0\NewsApi.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\dev\Source\Repos\PV212-API\NewsApi.Infrastructure\obj\Debug\net8.0\NewsApi.Infrastructure.AssemblyInfo.cs
+C:\Users\dev\Source\Repos\PV212-API\NewsApi.Infrastructure\obj\Debug\net8.0\NewsApi.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\dev\Source\Repos\PV212-API\NewsApi.Infrastructure\obj\Debug\net8.0\NewsApi.Infrastructure.sourcelink.json
+C:\Users\dev\Source\Repos\PV212-API\NewsApi.Infrastructure\obj\Debug\net8.0\NewsApi.Infrastructure.csproj.CopyComplete
+C:\Users\dev\Source\Repos\PV212-API\NewsApi.Infrastructure\obj\Debug\net8.0\NewsApi.Infrastructure.dll
+C:\Users\dev\Source\Repos\PV212-API\NewsApi.Infrastructure\obj\Debug\net8.0\refint\NewsApi.Infrastructure.dll
+C:\Users\dev\Source\Repos\PV212-API\NewsApi.Infrastructure\obj\Debug\net8.0\NewsApi.Infrastructure.pdb
+C:\Users\dev\Source\Repos\PV212-API\NewsApi.Infrastructure\obj\Debug\net8.0\NewsApi.Infrastructure.genruntimeconfig.cache
+C:\Users\dev\Source\Repos\PV212-API\NewsApi.Infrastructure\obj\Debug\net8.0\ref\NewsApi.Infrastructure.dll
+C:\Users\User\source\repos\PV212-API1\NewsApi.Infrastructure\bin\Debug\net8.0\NewsApi.Infrastructure.deps.json
+C:\Users\User\source\repos\PV212-API1\NewsApi.Infrastructure\bin\Debug\net8.0\NewsApi.Infrastructure.runtimeconfig.json
+C:\Users\User\source\repos\PV212-API1\NewsApi.Infrastructure\bin\Debug\net8.0\NewsApi.Infrastructure.dll
+C:\Users\User\source\repos\PV212-API1\NewsApi.Infrastructure\bin\Debug\net8.0\NewsApi.Infrastructure.pdb
+C:\Users\User\source\repos\PV212-API1\NewsApi.Infrastructure\bin\Debug\net8.0\NewsApi.Core.dll
+C:\Users\User\source\repos\PV212-API1\NewsApi.Infrastructure\bin\Debug\net8.0\NewsApi.Core.pdb
+C:\Users\User\source\repos\PV212-API1\NewsApi.Infrastructure\obj\Debug\net8.0\NewsApi.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\PV212-API1\NewsApi.Infrastructure\obj\Debug\net8.0\NewsApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\PV212-API1\NewsApi.Infrastructure\obj\Debug\net8.0\NewsApi.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PV212-API1\NewsApi.Infrastructure\obj\Debug\net8.0\NewsApi.Infrastructure.AssemblyInfo.cs
+C:\Users\User\source\repos\PV212-API1\NewsApi.Infrastructure\obj\Debug\net8.0\NewsApi.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PV212-API1\NewsApi.Infrastructure\obj\Debug\net8.0\NewsApi.Infrastructure.sourcelink.json
+C:\Users\User\source\repos\PV212-API1\NewsApi.Infrastructure\obj\Debug\net8.0\NewsApi.Infrastructure.csproj.CopyComplete
+C:\Users\User\source\repos\PV212-API1\NewsApi.Infrastructure\obj\Debug\net8.0\NewsApi.Infrastructure.dll
+C:\Users\User\source\repos\PV212-API1\NewsApi.Infrastructure\obj\Debug\net8.0\refint\NewsApi.Infrastructure.dll
+C:\Users\User\source\repos\PV212-API1\NewsApi.Infrastructure\obj\Debug\net8.0\NewsApi.Infrastructure.pdb
+C:\Users\User\source\repos\PV212-API1\NewsApi.Infrastructure\obj\Debug\net8.0\NewsApi.Infrastructure.genruntimeconfig.cache
+C:\Users\User\source\repos\PV212-API1\NewsApi.Infrastructure\obj\Debug\net8.0\ref\NewsApi.Infrastructure.dll
+D:\3 КУРС\New folder\PV212-API1\NewsApi.Infrastructure\bin\Debug\net8.0\NewsApi.Infrastructure.deps.json
+D:\3 КУРС\New folder\PV212-API1\NewsApi.Infrastructure\bin\Debug\net8.0\NewsApi.Infrastructure.runtimeconfig.json
+D:\3 КУРС\New folder\PV212-API1\NewsApi.Infrastructure\bin\Debug\net8.0\NewsApi.Infrastructure.dll
+D:\3 КУРС\New folder\PV212-API1\NewsApi.Infrastructure\bin\Debug\net8.0\NewsApi.Infrastructure.pdb
+D:\3 КУРС\New folder\PV212-API1\NewsApi.Infrastructure\bin\Debug\net8.0\NewsApi.Core.dll
+D:\3 КУРС\New folder\PV212-API1\NewsApi.Infrastructure\bin\Debug\net8.0\NewsApi.Core.pdb
+D:\3 КУРС\New folder\PV212-API1\NewsApi.Infrastructure\obj\Debug\net8.0\NewsApi.Infrastructure.csproj.AssemblyReference.cache
+D:\3 КУРС\New folder\PV212-API1\NewsApi.Infrastructure\obj\Debug\net8.0\NewsApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\3 КУРС\New folder\PV212-API1\NewsApi.Infrastructure\obj\Debug\net8.0\NewsApi.Infrastructure.AssemblyInfoInputs.cache
+D:\3 КУРС\New folder\PV212-API1\NewsApi.Infrastructure\obj\Debug\net8.0\NewsApi.Infrastructure.AssemblyInfo.cs
+D:\3 КУРС\New folder\PV212-API1\NewsApi.Infrastructure\obj\Debug\net8.0\NewsApi.Infrastructure.csproj.CoreCompileInputs.cache
+D:\3 КУРС\New folder\PV212-API1\NewsApi.Infrastructure\obj\Debug\net8.0\NewsApi.Infrastructure.sourcelink.json
+D:\3 КУРС\New folder\PV212-API1\NewsApi.Infrastructure\obj\Debug\net8.0\NewsApi.Infrastructure.csproj.CopyComplete
+D:\3 КУРС\New folder\PV212-API1\NewsApi.Infrastructure\obj\Debug\net8.0\NewsApi.Infrastructure.dll
+D:\3 КУРС\New folder\PV212-API1\NewsApi.Infrastructure\obj\Debug\net8.0\refint\NewsApi.Infrastructure.dll
+D:\3 КУРС\New folder\PV212-API1\NewsApi.Infrastructure\obj\Debug\net8.0\NewsApi.Infrastructure.pdb
+D:\3 КУРС\New folder\PV212-API1\NewsApi.Infrastructure\obj\Debug\net8.0\NewsApi.Infrastructure.genruntimeconfig.cache
+D:\3 КУРС\New folder\PV212-API1\NewsApi.Infrastructure\obj\Debug\net8.0\ref\NewsApi.Infrastructure.dll

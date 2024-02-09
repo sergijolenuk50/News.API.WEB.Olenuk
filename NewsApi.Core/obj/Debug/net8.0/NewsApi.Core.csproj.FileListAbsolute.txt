@@ -1,0 +1,38 @@
+C:\Users\dev\Source\Repos\PV212-API\NewsApi.Core\bin\Debug\net8.0\NewsApi.Core.deps.json
+C:\Users\dev\Source\Repos\PV212-API\NewsApi.Core\bin\Debug\net8.0\NewsApi.Core.dll
+C:\Users\dev\Source\Repos\PV212-API\NewsApi.Core\bin\Debug\net8.0\NewsApi.Core.pdb
+C:\Users\dev\Source\Repos\PV212-API\NewsApi.Core\obj\Debug\net8.0\NewsApi.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Source\Repos\PV212-API\NewsApi.Core\obj\Debug\net8.0\NewsApi.Core.AssemblyInfoInputs.cache
+C:\Users\dev\Source\Repos\PV212-API\NewsApi.Core\obj\Debug\net8.0\NewsApi.Core.AssemblyInfo.cs
+C:\Users\dev\Source\Repos\PV212-API\NewsApi.Core\obj\Debug\net8.0\NewsApi.Core.csproj.CoreCompileInputs.cache
+C:\Users\dev\Source\Repos\PV212-API\NewsApi.Core\obj\Debug\net8.0\NewsApi.Core.sourcelink.json
+C:\Users\dev\Source\Repos\PV212-API\NewsApi.Core\obj\Debug\net8.0\NewsApi.Core.dll
+C:\Users\dev\Source\Repos\PV212-API\NewsApi.Core\obj\Debug\net8.0\refint\NewsApi.Core.dll
+C:\Users\dev\Source\Repos\PV212-API\NewsApi.Core\obj\Debug\net8.0\NewsApi.Core.pdb
+C:\Users\dev\Source\Repos\PV212-API\NewsApi.Core\obj\Debug\net8.0\ref\NewsApi.Core.dll
+C:\Users\User\source\repos\PV212-API1\NewsApi.Core\bin\Debug\net8.0\NewsApi.Core.deps.json
+C:\Users\User\source\repos\PV212-API1\NewsApi.Core\bin\Debug\net8.0\NewsApi.Core.dll
+C:\Users\User\source\repos\PV212-API1\NewsApi.Core\bin\Debug\net8.0\NewsApi.Core.pdb
+C:\Users\User\source\repos\PV212-API1\NewsApi.Core\obj\Debug\net8.0\NewsApi.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\PV212-API1\NewsApi.Core\obj\Debug\net8.0\NewsApi.Core.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PV212-API1\NewsApi.Core\obj\Debug\net8.0\NewsApi.Core.AssemblyInfo.cs
+C:\Users\User\source\repos\PV212-API1\NewsApi.Core\obj\Debug\net8.0\NewsApi.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PV212-API1\NewsApi.Core\obj\Debug\net8.0\NewsApi.Core.sourcelink.json
+C:\Users\User\source\repos\PV212-API1\NewsApi.Core\obj\Debug\net8.0\NewsApi.Core.dll
+C:\Users\User\source\repos\PV212-API1\NewsApi.Core\obj\Debug\net8.0\refint\NewsApi.Core.dll
+C:\Users\User\source\repos\PV212-API1\NewsApi.Core\obj\Debug\net8.0\NewsApi.Core.pdb
+C:\Users\User\source\repos\PV212-API1\NewsApi.Core\obj\Debug\net8.0\ref\NewsApi.Core.dll
+C:\Users\User\source\repos\PV212-API1\NewsApi.Core\obj\Debug\net8.0\NewsApi.Core.csproj.AssemblyReference.cache
+D:\3 КУРС\New folder\PV212-API1\NewsApi.Core\bin\Debug\net8.0\NewsApi.Core.deps.json
+D:\3 КУРС\New folder\PV212-API1\NewsApi.Core\bin\Debug\net8.0\NewsApi.Core.dll
+D:\3 КУРС\New folder\PV212-API1\NewsApi.Core\bin\Debug\net8.0\NewsApi.Core.pdb
+D:\3 КУРС\New folder\PV212-API1\NewsApi.Core\obj\Debug\net8.0\NewsApi.Core.csproj.AssemblyReference.cache
+D:\3 КУРС\New folder\PV212-API1\NewsApi.Core\obj\Debug\net8.0\NewsApi.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\3 КУРС\New folder\PV212-API1\NewsApi.Core\obj\Debug\net8.0\NewsApi.Core.AssemblyInfoInputs.cache
+D:\3 КУРС\New folder\PV212-API1\NewsApi.Core\obj\Debug\net8.0\NewsApi.Core.AssemblyInfo.cs
+D:\3 КУРС\New folder\PV212-API1\NewsApi.Core\obj\Debug\net8.0\NewsApi.Core.csproj.CoreCompileInputs.cache
+D:\3 КУРС\New folder\PV212-API1\NewsApi.Core\obj\Debug\net8.0\NewsApi.Core.sourcelink.json
+D:\3 КУРС\New folder\PV212-API1\NewsApi.Core\obj\Debug\net8.0\NewsApi.Core.dll
+D:\3 КУРС\New folder\PV212-API1\NewsApi.Core\obj\Debug\net8.0\refint\NewsApi.Core.dll
+D:\3 КУРС\New folder\PV212-API1\NewsApi.Core\obj\Debug\net8.0\NewsApi.Core.pdb
+D:\3 КУРС\New folder\PV212-API1\NewsApi.Core\obj\Debug\net8.0\ref\NewsApi.Core.dll
